@@ -1,2 +1,2 @@
 array = ["N", "a", "m", "a", "n"] 
-array.join("").toString() // "Naman"
+array.join("") // "Naman"
